@@ -9,6 +9,7 @@ The code is commented throughout and this readme will be updated with sections o
 I am putting together a few different step guides for this project:
 
 1. Steps.md
+2. WhatToResearch.md
 
 ## Issues
 
